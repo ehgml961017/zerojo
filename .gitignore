@@ -1,0 +1,6 @@
+###android project gitIgnore###
+zerojoapplication/.idea
+
+### spring boot project git ignore###
+zerojoproject/.idea
+zerojoproject/.gradle
